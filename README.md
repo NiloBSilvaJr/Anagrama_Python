@@ -8,7 +8,7 @@ Facilitadores: **Rogério Mainardes** e **Franklin Ferreira**
 
 
 ## Colaboração
-Projeto realizado em parceiria com Joelson da S. Ferreira (Joe)
+Projeto realizado em parceria com Joelson da S. Ferreira (Joe)
 
 
 ## Requisitos:
